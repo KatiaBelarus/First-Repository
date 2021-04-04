@@ -2,3 +2,4 @@ Testing commands
 git fetch
 git status
 git pull
+testing stash
